@@ -29,7 +29,7 @@ const Home = () => {
         />
       </motion.div>
 
-      <a href="https://github.com/hisekr/crypto-app" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/hisekr/React-crypto-app" target="_blank" rel="noopener noreferrer">
         <FaGithub style={{ position: "absolute", top: "10px", right: "10px", fontSize: "24px", color: "white" }} />
       </a>
       
